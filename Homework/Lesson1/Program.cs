@@ -14,7 +14,7 @@
             else
             {
 
-                //Console.WriteLine("{0} наибольшее число ", num_B);
+                Console.WriteLine("{0} наибольшее число ", num_B);
 
             }
 
